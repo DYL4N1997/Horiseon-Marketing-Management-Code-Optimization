@@ -24,4 +24,7 @@ To acheive this purpose a number of refactoring criteria was met
 8. Comments were added to the CSS file to describe purposes of the styling. 
 
 Screenshot of the refactored website can be seen below
-https://user-images.githubusercontent.com/82978161/145436840-c032cf87-8608-4f75-b048-fb097f6a894d.png
+
+![](assets/images/horiseon-capture.PNG)
+
+This signifies the end of the project.
