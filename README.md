@@ -1,10 +1,18 @@
 # Horiseon-Marketing-Management-Code-Optimization
+
+## Description
 Homework week 01, refactoring code for Horiseon's landing page to optimize for accessibility standards.
-
-URL of Github repository = https://dyl4n1997.github.io/Horiseon-Marketing-Management-Code-Optimization/
-
 The purpose of this project was to refactor the code, so the Horiseon website would follow accessbility standards and be optimized for search engines like Google Chrome.
 
+- My motivation to complete this task was to work on my refactoring ability of HTML & CSS
+- I worked on this project to help try and make Horiseons webiste more accessibile for search engines
+- The poblem of accessibility was solved
+- I learnt how to better refactor, organise CSS semantically, and enhanced my Github skills
+
+## Github repo for project
+URL of Github repository = https://dyl4n1997.github.io/Horiseon-Marketing-Management-Code-Optimization/
+
+## Table of contents
 To acheive this purpose a number of refactoring criteria was met
 
 1. Semantic elements describing header, sections, and footers were added to the HTML.
