@@ -33,6 +33,6 @@ To acheive this purpose a number of refactoring criteria was met
 
 Screenshot of the refactored website can be seen below
 
-![](assets/images/horiseon-capture.PNG)
+![](assets/images/horiseon-capture1.PNG)
 
 This signifies the end of the project.
